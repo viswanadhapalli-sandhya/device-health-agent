@@ -65,7 +65,7 @@ You can tune these values to match your device behavior.
 ### 1. Clone and move into project directory
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/viswanadhapalli-sandhya/device-health-agent.git
 cd device-health-agent
 ```
 
